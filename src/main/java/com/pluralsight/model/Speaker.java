@@ -6,4 +6,5 @@ import lombok.Data;
 public class Speaker {
     private String firstName;
     private  String lastName;
+    private double seedNum;
 }
